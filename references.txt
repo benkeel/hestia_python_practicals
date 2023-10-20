@@ -1,0 +1,2 @@
+Install from conda yml
+https://saturncloud.io/blog/how-to-create-a-conda-environment-based-on-a-yaml-file-a-guide-for-data-scientists/
