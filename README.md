@@ -1,5 +1,4 @@
-# Introduction to Python training course for food sustainabilty group at University of Oxford
-(https://hestia-fst.oxfordmartin.ox.ac.uk/home).
+# Introduction to Python training course for food sustainabilty group at University of Oxford (https://hestia-fst.oxfordmartin.ox.ac.uk/home).
 
 
 # Install Conda environment
